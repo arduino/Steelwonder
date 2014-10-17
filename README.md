@@ -12,3 +12,8 @@ The plastic parts have mostly been sourced from the box design of the main Prusa
 The new plastic parts made were the following:
 The shroud for the fan
 The legs for the screen
+
+The Extras Folder
+There are some add-ons for the printer in this folder
+
+The Y-endstops are made by Antonio Navarro and can be found [here] (http://www.thingiverse.com/AntonioNav)
