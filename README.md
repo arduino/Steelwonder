@@ -10,12 +10,15 @@ The frame "P3Steel" is a remix of Twelvepro's redesign of Josef Prusa's i3. Ther
 The plastic parts have mostly been sourced from the box design of the main Prusa i3 branch. One part was sourced from Except some that were made for this printer exclusivly. 
 
 The new plastic parts made were the following:
-The shroud for the fan
-The legs for the screen
+
+The shroud for the fan.
+
+The legs for the screen.
 
 The Extras Folder
 There are some add-ons for the printer in this folder
 
-The source for the Y-endstop holder for the moving y-carriage can be found here [here] (http://www.thingiverse.com/AntonioNav)and is made by Antonio Navaro
+The source for the Y-endstop holder for the moving y-carriage can be found here [here] (https://www.youmagine.com/designs/y-endstop-support-for-p3steel) is made by Antonio Navarro
+
 An alternative to the shroud that was provided during the workshop is found [here] (http://www.thingiverse.com/thing:268372) and is made by Diego García
 
