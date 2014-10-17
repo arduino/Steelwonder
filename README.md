@@ -1,7 +1,7 @@
 Steelwonder
 ===========
 
-This is the reposatory of the 3d printer that where built during a workshop hosted by Arduino Verkstad at the makerspace STPLN in Malmö, Sweden.
+This is the repository of the 3d printer that where built during a workshop hosted by Arduino Verkstad at the makerspace STPLN in Malmö, Sweden.
 
 The frame "P3Steel" is a remix of Twelvepro's redesign of Josef Prusa's i3. There have been some alterations to the frame such as the deletion of the triangles covering the xz frame and some holes for a powersupply and the electronics have been added. 
 
