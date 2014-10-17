@@ -5,7 +5,7 @@ This is the reposatory of the 3d printer that where built during a workshop host
 
 The frame "P3Steel" is a remix of Twelvepro's redesign of Josef Prusa's i3. There have been some alterations to the frame such as the deletion of the triangles covering the xz frame and some holes for a powersupply and the electronics have been added. 
 
-[Here] (http://youtu.be/In_Q6NkX3fs﻿) you can find a video showing how to assemble the frame.
+[Here] (http://youtu.be/In_Q6NkX3fs) you can find a video showing how to assemble the frame.
 
 The plastic parts have mostly been sourced from the box design of the main Prusa i3 branch. The shroud was sourced from 
 
