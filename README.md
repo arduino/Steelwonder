@@ -13,9 +13,10 @@ The shroud was sourced from [this](http://www.thingiverse.com/thing:165606) made
 
 The new plastic parts made were the following:
 
-  The shroud for the fan.
+  The shroud for the fan.\n
   The legs for the screen.
-  The Extras Folder.
+  
+The Extras Folder.
 
 There are some add-ons for the printer in this folder.
 
