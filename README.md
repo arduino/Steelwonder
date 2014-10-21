@@ -11,10 +11,12 @@ The plastic parts have mostly been sourced from the box design of the main Prusa
 
 The shroud was sourced from [this](http://www.thingiverse.com/thing:165606) made by stratop80, also [available on tinkercad](https://tinkercad.com/things/1gkTvnWGP8F). Although it was revised and only used for inspiration.
 
-The new plastic parts made were the following:
+The new plastic parts made for this machine:
 
-  The shroud for the fan.\n
+  The shroud for the fan.
+  
   The legs for the screen.
+  
   
 The Extras Folder.
 
