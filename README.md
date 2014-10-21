@@ -17,9 +17,10 @@ The shroud for the fan.
 
 The legs for the screen.
 
-The Extras Folder
-There are some add-ons for the printer in this folder
+The Extras Folder.
 
-The source for the Y-endstop holder for the moving y-carriage can be found here [here] (https://www.youmagine.com/designs/y-endstop-support-for-p3steel) is made by Antonio Navarro
+There are some add-ons for the printer in this folder.
 
-An alternative to the shroud that was provided during the workshop is found [here] (http://www.thingiverse.com/thing:268372) and is made by Diego García
+The source for the Y-endstop holder for the moving y-carriage can be found here [here] (https://www.youmagine.com/designs/y-endstop-support-for-p3steel) is made by Antonio Navarro.
+
+An alternative to the shroud that was provided during the workshop is found [here] (http://www.thingiverse.com/thing:268372) and is made by Diego García.
