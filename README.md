@@ -3,7 +3,7 @@ Steelwonder
 
 This is the repository of the 3d printer that where built during a workshop hosted by Arduino Verkstad at the makerspace STPLN in Malmö, Sweden.
 
-The frame "P3Steel" is a remix of Twelvepro's redesign of Josef Prusa's i3. There have been some alterations to the frame such as the deletion of the triangles covering the xz frame and some holes for a powersupply and the electronics have been added. 
+The frame [P3Steel](reprap.org/wiki/P3Steel) is a remix of [Twelvepro's](http://www.thingiverse.com/thing:39889/) redesign of [Josef Prusa's i3](https://github.com/josefprusa/Prusa3-vanilla). There have been some alterations to the frame such as the deletion of the triangles covering the xz frame and some holes for a powersupply and the electronics have been added. Also the printed parts have been borrowed from the box design from the current [Mendel Prusa i3 box design](https://github.com/josefprusa/Prusa3/tree/master/box_frame).
 
 [Here] (http://youtu.be/In_Q6NkX3fs) you can find a video showing how to assemble the frame.
 
